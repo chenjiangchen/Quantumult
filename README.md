@@ -1,24 +1,12 @@
-# QuantumultX
-> 纯自用，无规则，无维护，无更新
+## 说明
 
-仅以下项目可能会更新维护：    
+个性化「geo_location_checker」
 
-1⃣️ Quantumult X 资源解析器:   
+```
+[general]
+geo_location_checker=http://api.live.bilibili.com/ip_service/v1/ip_service/get_ip_addr?, https://raw.githubusercontent.com/ConnersHua/Quantumult/master/geo_location_checker.js
+```
 
+## 鸣谢
 
-https://github.com/KOP-XIAO/QuantumultX/blob/master/Scripts/resource-parser.js
-
-
-
-有bug请反馈 [@Shawn_KOP_bot](https://t.me/Shawn_KOP_bot) 
-
-更新请关注 tg 频道 https://t.me/QuanX_API
-
-
-
-觉得有帮助可以请喝咖啡:
-
-
-
-<img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1geiniiv2onj30u00u0wgi.jpg" alt="IMG_5957" style="zoom:23%;" />
-
+- [KOP-XIAO / QuantumultX](https://github.com/KOP-XIAO/QuantumultX/)
